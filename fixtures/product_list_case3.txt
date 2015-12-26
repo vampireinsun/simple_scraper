@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html class="noJs" xmlns:wairole="http://www.w3.org/2005/01/wai-rdf/GUIRoleTaxonomy#" xmlns:waistate="http://www.w3.org/2005/07/aaa" lang="en" xml:lang="en">
+<!-- BEGIN ProductDisplay.jsp -->
+<head>
+    <title>test</title>
+</head>
+<body>
+    <div class="productInfo">
+        <div id= "test">
+            <a href="http://www.test.com/test.html" />
+            <a href="http://www.test.com/test.html" />
+            <a />
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html class="noJs" xmlns:wairole="http://www.w3.org/2005/01/wai-rdf/GUIRoleTaxonomy#" xmlns:waistate="http://www.w3.org/2005/07/aaa" lang="en" xml:lang="en">
+<!-- BEGIN ProductDisplay.jsp -->
+<head>
+    <title>test</title>
+</head>
+<body>
+    <div class="productSummary" >
+        <h1>title1</h1>
+        <div>
+            <p class="wrong" >£3.5</p>
+        </div>
+    </div>
+    <div>
+        <h3 class="productDataItemHeader">Description</h3>
+        <div class="productText">
+            <p>Avocados</p>
+            <p>
+            <p></p>
+            </p>
+        </div>
+        <h3 class="productDataItemHeader">Size</h3>
+        <div class="productText">
+            <p>666g</p>
+        </div>
+    </div>
+</body>
+</html>
