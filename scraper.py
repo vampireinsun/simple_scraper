@@ -225,10 +225,11 @@ if __name__ == "__main__":
         description='The script for scraping the content of grocery from saintbury sample website.')
 
     parser.add_argument(
-        '-u', '--url', help='The URL you want to scrape data from.', default=SAINT_BURY_GROCERY_SCRAPE_URL)
+        '-u', '--url', help='The URL you want to scrape data from, the default is %s.' % SAINT_BURY_GROCERY_SCRAPE_URL,
+        default=SAINT_BURY_GROCERY_SCRAPE_URL)
 
     parser.add_argument(
-        '-o', '--output', help='The file you want to export the data to', required=True)
+        '-o', '--output', help='The file you want to export the data to.', required=True)
 
     check_arguments = True
 
