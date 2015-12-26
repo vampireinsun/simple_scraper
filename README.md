@@ -3,7 +3,7 @@ a simple implementation for scraping some content from a testing page
 Run environment
 ---------------------
 Python 2.7
-No third party required.
+No third party libary is required.
 
 files structure
 ---------------------
